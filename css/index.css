@@ -250,3 +250,53 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+.main-section {
+  display: flex;
+}
+.second-section {
+  display: flex;
+}
+.about-sec {
+  margin-bottom: 20px;
+  border-bottom: 1px dotted black;
+}
+.Leverage {
+  margin-bottom: 15px;
+}
+hr {
+  margin-bottom: 20px;
+}
+.line {
+  margin-bottom: 25px;
+  margin-top: 20px;
+  border-top: dotted 1px;
+  width: 94%;
+  margin-left: -10px;
+}
+.place {
+  /* margin-bottom: 25px; */
+  /* margin-top: 10px; */
+  margin-left: 2px;
+  border-top: dotted 1px;
+  width: 90%;
+}
+
+.last-section {
+  margin-bottom: 20px;
+}
+h3 {
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.learn {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  padding-top: 2px;
+}
