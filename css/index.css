@@ -275,8 +275,6 @@ hr {
   margin-left: -10px;
 }
 .place {
-  /* margin-bottom: 25px; */
-  /* margin-top: 10px; */
   margin-left: 2px;
   border-top: dotted 1px;
   width: 90%;
@@ -299,4 +297,35 @@ h3 {
   margin-top: 15px;
   margin-bottom: 10px;
   padding-top: 2px;
+}
+
+.middle-content .boxes .box1 {
+  background: teal;
+}
+.middle-content .boxes .box2 {
+  background: gold;
+}
+.middle-content .boxes .box3 {
+  background: cadetblue;
+}
+.middle-content .boxes .box4 {
+  background: coral;
+}
+.middle-content .boxes .box5 {
+  background: crimson;
+}
+.middle-content .boxes .box6 {
+  background: forestgreen;
+}
+.middle-content .boxes .box7 {
+  background: darkorchid;
+}
+.middle-content .boxes .box8 {
+  background: hotpink;
+}
+.middle-content .boxes .box9 {
+  background: indigo;
+}
+.middle-content .boxes .box10 {
+  background: dodgerblue;
 }
